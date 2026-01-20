@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <!-- Circle background color -->
+    <solid android:color="#3F51B5" /> <!-- You can change to your theme color -->
+
+    <!-- Optional border -->
+    <stroke
+        android:width="1dp"
+        android:color="#303F9F" />
+
+    <!-- Shadow/elevation will come from layout, not drawable -->
+</shape>
